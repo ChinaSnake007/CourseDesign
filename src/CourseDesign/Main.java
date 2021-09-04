@@ -42,6 +42,6 @@ public class Main {
 	
 	
 	public static void main(String[] args) {
-		setLocation(WindowUtil.getLocation());	//œ‘ æ¥∞ø⁄Œª÷√
+		System.out.println("nihao");
 	}
 }
